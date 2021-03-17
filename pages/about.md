@@ -5,9 +5,25 @@ permalink: /about/
 weight: 6
 ---
 
-# **About PROJECT VIRTUA**
+# **PROJECT VIRTUA**
 
-Project Virtua is a an attempt towards developing Advanced AI based Simulations using Unity, TF, Pytorch, RL, OpenAI Gym.
+Project Virtua is a an attempt towards developing Advanced AI based Simulations for Gaming, simulation based decision making etc.
+
+# **Technologies , Frameworks , Languages used**
+<br>
+<ul>
+<li>AI --> Reinforcement Learning</li>
+<li>Computer Vision , NLU</li>
+<li>Unity</li>
+<li>ML Agents</li>
+<li>Open AI Gym</li>
+<li>Stable Baselines3</li>
+<li>Tensorflow</li>
+<li>Pytorch</li>
+<li>Python</li>
+<li>C++, C#</li>
+</ul>
+<br>
 
 <!-- 
 # **Publications**
