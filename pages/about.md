@@ -18,10 +18,9 @@ Project Virtua is a an attempt towards developing Advanced AI based Simulations 
 <li>ML Agents</li>
 <li>Open AI Gym</li>
 <li>Stable Baselines3</li>
-<li>Tensorflow</li>
-<li>Pytorch</li>
-<li>Python</li>
-<li>C++, C#</li>
+<li>Tensorflow, Pytorch</li>
+<li>Python, C++, C#</li>
+<li>Git</li>
 </ul>
 <br>
 
