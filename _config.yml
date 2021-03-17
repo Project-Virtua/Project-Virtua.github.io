@@ -26,7 +26,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : PROJECT VIRTUA
-  image             : ./assets/virtua.png
+  image             : ./assets/logo.jpg
 # behance           : your_username
 # dribbble          : your_username
   email             : projectvirtua@gmail.com 
