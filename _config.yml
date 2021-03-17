@@ -67,7 +67,7 @@ disqus: https-project-virtua-github-io                          # Your website S
 analytics:
   enabled: true                                        # Set true to enable analytics
   google:
-    tracking_id: UA-175164060-1
+    tracking_id: UA-175164060-2
 
 
 ### Defaults for collections ###
